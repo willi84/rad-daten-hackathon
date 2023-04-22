@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html class="no-js" lang="de">
+  <head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+
+    <link rel="stylesheet" type="text/css" href="/style.css" />
+    <!-- TODO: locally -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    
+    <link href="https://fonts.googleapis.com/css?family=Share+Tech+Mono" rel="stylesheet">
+    <meta charset="utf-8">
+    <css-dashboard></css-dashboard>
+  </head>
+  <body class="dashboard">
+   <!-- Add the Bootstrap CSS file -->
+
+<!-- Search form -->
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <h1 class="text-center py-4">Irgendwas mit Daten</h1>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12 mx-auto mt-5">
+      <div class="card">
+        <div class="card-body">
+          <h5 class="card-title mb-4">Search by street</h5>
+          <form>
+            <div class="form-floating mb-3">
+              <input type="text" class="form-control" id="searchInput" placeholder="Enter a street name">
+              <label for="searchInput">Enter a street name</label>
+            </div>
+            <button type="submit" class="btn btn-primary">Search</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Search results -->
+<div class="container">
+    <div class="row"> 
+      <div class="col-md-6">
+        <div id="searchResults">
+          <p>Keine Ergebnisse gefunden</p>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div id="streetViewBox">
+          <img id="streetViewImage" src="">
+        </div>
+      </div>
+    </div>
+</div>
+
+<!-- Add the Bootstrap JS file -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.min.js" integrity="sha384-F1tGJ1t9XnVuFXbQTmvWZIY5/q5w5R5LrB17rKZZ5tw3bq3pX1JZvvrxfnSSmbd6" crossorigin="anonymous"></script>
+
+    <script src="./index.js"></script>
+  </body>
+</html>

@@ -1,0 +1,312 @@
+[
+    {
+        "group": "Ampel, Verkehrszeichen",
+        "service_name": "Ampel komplett ausgefallen",
+        "service_code": 73
+    },
+    {
+        "group": "Ampel, Verkehrszeichen",
+        "service_name": "einzelnes Signal am Mast ausgefallen",
+        "service_code": 74
+    },
+    {
+        "group": "Ampel, Verkehrszeichen",
+        "service_name": "einzelnes Signal über der Fahrbahn ausgefallen",
+        "service_code": 78
+    },
+    {
+        "group": "Ampel, Verkehrszeichen",
+        "service_name": "überflüssiges Verkehrsschild",
+        "service_code": 79
+    },
+    {
+        "group": "Ampel, Verkehrszeichen",
+        "service_name": "Ampel durch Pflanze verdeckt",
+        "service_code": 103
+    },
+    {
+        "group": "Ampel, Verkehrszeichen",
+        "service_name": "Verkehrsschild verdeckt / beschädigt / entwendet",
+        "service_code": 112
+    },
+
+
+    {
+        "group": "Beleuchtung",
+        "service_name": "Leuchte an Straße, Geh- oder Radweg defekt",
+        "service_code": 75
+    },
+    {
+        "group": "Beleuchtung",
+        "service_name": "Leuchtenmast beschädigt",
+        "service_code": 76
+    },
+    {
+        "group": "Beleuchtung",
+        "service_name": "Leuchtenglas/-wanne beschädigt",
+        "service_code": 77
+    },
+
+
+    {
+        "group": "Bushaltestelle",
+        "service_name": "Glasbruch Wartehalle",
+        "service_code": 120
+    },
+    {
+        "group": "Bushaltestelle",
+        "service_name": "Glasbruch Vitrine",
+        "service_code": 121
+    },
+    {
+        "group": "Bushaltestelle",
+        "service_name": "Deckenbeleuchtung defekt",
+        "service_code": 122
+    },
+    {
+        "group": "Bushaltestelle",
+        "service_name": "Vitrinenbeleuchtung defekt",
+        "service_code": 123
+    },
+    {
+        "group": "Bushaltestelle",
+        "service_name": "Bank verschmutzt",
+        "service_code": 124
+    },
+    {
+        "group": "Bushaltestelle",
+        "service_name": "Graffiti",
+        "service_code": 125
+    },
+    {
+        "group": "Bushaltestelle",
+        "service_name": "Wartehalle verschmutzt",
+        "service_code": 126
+    },
+    {
+        "group": "Bushaltestelle",
+        "service_name": "Fahrplan fehlt",
+        "service_code": 127
+    },
+
+
+    {
+        "group": "Geh-/Radweg, Radverkehr",
+        "service_name": "lose Gehwegplatten/Pflastersteine",
+        "service_code": 80
+    },
+    {
+        "group": "Geh-/Radweg, Radverkehr",
+        "service_name": "Behinderung durch Pflanzen",
+        "service_code": 81
+    },
+    {
+        "group": "Geh-/Radweg, Radverkehr",
+        "service_name": "starke Verschmutzung/Scherben",
+        "service_code": 83
+    },
+    {
+        "group": "Geh-/Radweg, Radverkehr",
+        "service_name": "\"Schrottfahrrad\"",
+        "service_code": 84
+    },
+    {
+        "group": "Geh-/Radweg, Radverkehr",
+        "service_name": "Behinderung durch Sperrpfosten/Umlaufsperren",
+        "service_code": 85
+    },
+    {
+        "group": "Geh-/Radweg, Radverkehr",
+        "service_name": "Sperrpfosten/ Umlaufsperre fehlt",
+        "service_code": 86
+    },
+    {
+        "group": "Geh-/Radweg, Radverkehr",
+        "service_name": "Fahrradbox: Tür defekt",
+        "service_code": 118
+    },
+    {
+        "group": "Geh-/Radweg, Radverkehr",
+        "service_name": "Fahrradbox vermüllt",
+        "service_code": 119
+    },
+    {
+        "group": "Geh-/Radweg, Radverkehr",
+        "service_name": "Pfosten schief, verdreht, umgefallen",
+        "service_code": 135
+    },
+
+
+    {
+        "group": "Radwegweisung",
+        "service_name": "Radwegweiser fehlt, Befestigung defekt",
+        "service_code": 136
+    },
+    {
+        "group": "Radwegweisung",
+        "service_name": "Radwegweiser unkenntlich (verdreckt, beschmiert, verklebt, verblasst, zugewachsen)",
+        "service_code": 137
+    },
+
+
+    {
+        "group": "Grünanlage, Spielplatz",
+        "service_name": "Spielgerät beschädigt",
+        "service_code": 87
+    },
+    {
+        "group": "Grünanlage, Spielplatz",
+        "service_name": "Bank beschädigt",
+        "service_code": 88
+    },
+    {
+        "group": "Grünanlage, Spielplatz",
+        "service_name": "Pflanzung/Bäume beschädigt",
+        "service_code": 89
+    },
+    {
+        "group": "Grünanlage, Spielplatz",
+        "service_name": "starke Verschmutzung/Scherben",
+        "service_code": 90
+    },
+    {
+        "group": "Grünanlage, Spielplatz",
+        "service_name": "\"wilde\" Müllablagerung",
+        "service_code": 91
+    },
+
+
+    {
+        "group": "Eichenprozessionsspinner",
+        "service_name": "Eichenprozessionsspinner an öffentlichen Kindergärten / öffentlichen Schulen",
+        "service_code": 128
+    },
+    {
+        "group": "Eichenprozessionsspinner",
+        "service_name": "Eichenprozessionsspinner an öffentlichen Spielplätzen, Sport-/Freizeitanlagen",
+        "service_code": 129
+    },
+    {
+        "group": "Eichenprozessionsspinner",
+        "service_name": "Eichenprozessionsspinner an Krankenhäusern / anderen öffentlichen Einrichtungen",
+        "service_code": 130
+    },
+    {
+        "group": "Eichenprozessionsspinner",
+        "service_name": "Eichenprozessionsspinner an Bushaltestellen",
+        "service_code": 131
+    },
+    {
+        "group": "Eichenprozessionsspinner",
+        "service_name": "Eichenprozessionsspinner an Bäumen zwischen der Bebauung",
+        "service_code": 132
+    },
+    {
+        "group": "Eichenprozessionsspinner",
+        "service_name": "Eichenprozessionsspinner an Straßenbäumen",
+        "service_code": 133
+    },
+    {
+        "group": "Eichenprozessionsspinner",
+        "service_name": "Eichenprozessionsspinner an Bäumen an städtischen Waldwegen",
+        "service_code": 134
+    },
+
+
+    {
+        "group": "Straße",
+        "service_name": "Schlagloch",
+        "service_code": 92
+    },
+    {
+        "group": "Straße",
+        "service_name": "Behinderung durch Pflanzen",
+        "service_code": 93
+    },
+    {
+        "group": "Straße",
+        "service_name": "stark verschmutzte Fahrbahn",
+        "service_code": 94
+    },
+    {
+        "group": "Straße",
+        "service_name": "Überflutung, Straßenablauf verstopft",
+        "service_code": 95
+    },
+    {
+        "group": "Straße",
+        "service_name": "Unebenheiten durch Kanaldeckel",
+        "service_code": 104
+    },
+    {
+        "group": "Straße",
+        "service_name": "stark schadhafte Fahrbahnmarkierung",
+        "service_code": 105
+    },
+
+
+    {
+        "group": "Brücken",
+        "service_name": "Schaden am Brückenbelag",
+        "service_code": 113
+    },
+    {
+        "group": "Brücken",
+        "service_name": "Schaden am Brückengeländer",
+        "service_code": 114
+    },
+    {
+        "group": "Brücken",
+        "service_name": "Graffitis",
+        "service_code": 115
+    },
+    {
+        "group": "Brücken",
+        "service_name": "Brückenabläufe verstopft",
+        "service_code": 116
+    },
+    {
+        "group": "Brücken",
+        "service_name": "lose Teile (Steine, Abdeckungen)",
+        "service_code": 117
+    },
+
+
+    {
+        "group": "Gewässer",
+        "service_name": "Abflusshindernis/Rückstau",
+        "service_code": 96
+    },
+    {
+        "group": "Gewässer",
+        "service_name": "Müll, \"Schrottfahrrad\"",
+        "service_code": 97
+    },
+    {
+        "group": "Gewässer",
+        "service_name": "Nagetierbefall",
+        "service_code": 98
+    },
+
+
+    {
+        "group": "Kanalisation",
+        "service_name": "Kanaldeckel fehlt / defekt",
+        "service_code": 99
+    },
+    {
+        "group": "Kanalisation",
+        "service_name": "Rattenbefall",
+        "service_code": 100
+    },
+    {
+        "group": "Kanalisation",
+        "service_name": "Verstopfung/Rückstau",
+        "service_code": 101
+    },
+    {
+        "group": "Kanalisation",
+        "service_name": "Geruchsbelästigung",
+        "service_code": 102
+    }
+]

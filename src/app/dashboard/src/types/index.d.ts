@@ -1,0 +1,1 @@
+export type streetKEYS = `${string.toLowerCase}`;

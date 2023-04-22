@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+      "skipLibCheck": true,
+      "importHelpers": true,
+      "target": "esnext",
+      "types": ["node", "axios"],
+      "module": "commonjs",
+      "typeRoots": ["./node_modules/@types", "./src/app/dasboard/src/types"],
+      "lib": ["es5", "es6", "dom"],
+      "baseUrl": "src", // TODO. ggf. check
+      "rootDir": "src",
+    },
+    "include": [
+      "src/app/dasboard/*.d.ts",
+      "src/**/*.ts"
+, "src/app/backend/getStreet"    ],
+    "exclude": [
+      "node_modules", "dist"
+    ],
+  }
